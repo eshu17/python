@@ -1,6 +1,6 @@
 def password_checker():
     password = input("Enter password: ")
-#test
+#testwfsdiojdjfosjfsofdji
     if len(password) < 8:
         print("Password too short. It must be at least 8 characters.")
         return
